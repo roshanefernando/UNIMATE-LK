@@ -17,11 +17,21 @@ manage their academic and financial activities.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220"/>
-  <img src="screenshots/home2.jpeg" width="220"/>
-  <img src="screenshots/gpa-calculator.png" width="220"/>
-  <img src="screenshots/finance(expense_tracker).jpeg" width="220"/>
+  <img src="Screenshots/home.png" width="220"/>
+  <img src="Screenshots/home2.jpeg" width="220"/>
+  <img src="Screenshots/gpa.jpeg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/module_manager.jpeg" width="220"/>
+  <img src="Screenshots/Timetable.jpeg" width="220"/>
+  <img src="Screenshots/assignment.jpeg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/finance(expense_tracker).jpeg" width="220"/>
   <img src="Screenshots/statics.jpeg" width="220"/>
+  <img src="Screenshots/statics_null.jpeg" width="220"/>
 </p>
 
 ## 🛠️ Technologies
