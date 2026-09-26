@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.UniMateLK" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#071525</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.UniMateLK.Main</item>
+    </style>
+
+    <style name="Theme.UniMateLK.Main"
+        parent="android:style/Theme.Material.Light.NoActionBar">
+
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#071525</item>
+        <item name="android:navigationBarColor">#071525</item>
+
+    </style>
+
+</resources>
